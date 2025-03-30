@@ -78,7 +78,7 @@ Uma aplicação web para gerenciar e rastrear veículos em tempo real.
 3. Instale as dependências:
 
     ```
-    npm install
+    npm install --legacy-peer-deps
     ```
 
 4. Inicie o servidor de desenvolvimento:
