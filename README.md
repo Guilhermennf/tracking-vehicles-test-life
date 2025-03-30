@@ -1,4 +1,4 @@
-# Teste Life - Sistema de Rastreamento de Veículos
+# Teste Life - Sistema de Veículos
 
 Uma aplicação web para gerenciar e rastrear veículos em tempo real.
 
