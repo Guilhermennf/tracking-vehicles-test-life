@@ -96,6 +96,10 @@ Uma aplicação web para gerenciar e rastrear veículos em tempo real.
 6. Faça login com as credenciais:
     - Usuário: user02
     - Senha: x20QL8M
+  
+## Deploy da aplicação
+
+https://tracking-vehicles-test-life.vercel.app/
 
 ## Estrutura do Projeto
 
