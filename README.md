@@ -66,7 +66,7 @@ Uma aplicação web para gerenciar e rastrear veículos em tempo real.
 1. Clone o repositório:
 
     ```
-    git clone https://github.com/seu-usuario/tracking-vehicles-test-life.git
+    git clone https://github.com/Guilhermennf/tracking-vehicles-test-life.git
     ```
 
 2. Entre na pasta do projeto:
